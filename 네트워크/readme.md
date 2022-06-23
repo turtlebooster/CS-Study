@@ -21,7 +21,7 @@
 </details>
 
 <details>
-<summary>블로그 : [https://brunch.co.kr/@toughrogrammer/16](https://brunch.co.kr/@toughrogrammer/16)</summary>
+<summary>블로그 : [개념 정리 - (8) 컴퓨터 네트워크 편](https://brunch.co.kr/@toughrogrammer/16)</summary>
 
 - 컴퓨터 통신과 네트워크
 - 네트워크 용어: 노드, 호스트, 링크, 홉, 경로, 프로토콜
